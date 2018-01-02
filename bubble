@@ -1,1 +1,2 @@
 printf("man");
+printf("forked successfully");
